@@ -1,0 +1,117 @@
+body{
+
+    color: black;
+    display: block;
+}
+p{
+    font-size: larger;
+}
+img{
+    float: right;
+    margin-top: -20px;
+    margin-left: 105px;
+    margin-right: 92px;
+    margin-bottom: 25px;
+}
+summary{
+    display: contents;
+}
+
+.heading
+{
+            align-self: center;
+            border-collapse: separate;
+            border-spacing: 52px 0px;
+            font-family: "archia";
+            position: relative;
+            width: 77rem;
+}
+.heading{
+    margin-top: 10px;
+    margin-left: 122px;
+    margin-right: 60px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.r1{
+    align-self: center;
+    border-collapse: separate;
+    border-spacing: 97px 2px;
+    font-family: "archia";
+    position: relative;
+    width: 81rem;
+
+margin-left: 100px;
+margin-bottom: -55px;
+margin-right: 60px;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+
+.tbodydiv1{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 0 0;
+    
+
+}
+.d1{
+    margin-top: 10px;
+}
+table thead {
+    background: rgba(108,117,125,.0627451);
+    color: #6c757d;
+    font-size: 1rem;
+    text-align: left;
+}
+table tbody {
+   
+    color: #6c757d;
+    font-size: .75rem;
+    text-align: left;
+}
+table thead th {
+    background: #f6f6f7;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0.1rem 2.3rem;
+    top: 5px;
+    transition: all .1s ease-in-out;
+    z-index: 99;
+}
+th {
+    font-weight: bold;
+   
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+table tbody td:first-child {
+font-weight: 600;
+text-align: left;
+}
+table tbody td {
+text-align: center;
+font-weight: 600;
+border-radius: 4px;
+font-size: 1rem;
+padding: .4rem;
+}
+
+.h1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
